@@ -1,4 +1,4 @@
 DigiMat
 
-http://digimat.tech
+http://digimat.tech/digimat
 
