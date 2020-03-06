@@ -1,1 +1,4 @@
-# digimat
+DigiMat
+
+http://digimat.tech
+
